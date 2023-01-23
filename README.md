@@ -52,3 +52,5 @@ Arrival Delay in Minutes: Minutes delayed when Arrival
 Satisfaction: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
 
 Note that this data set was modified from this dataset by John D here. It has been cleaned up for the purposes of classification.
+
+- dataset link : [kaggle.com](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?select=test.csv)
